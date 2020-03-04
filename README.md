@@ -1,6 +1,8 @@
 # bh3_durandal
 崩坏3幽兰戴尔视觉小说自动完成脚本
 
+<img src="./tmp.png">
+
 ```javascript
 
 // 浏览器f12下黏贴进去
