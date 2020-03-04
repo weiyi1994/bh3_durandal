@@ -1,9 +1,3 @@
-# bh3_durandal
-崩坏3幽兰戴尔视觉小说自动完成脚本
-
-```javascript
-
-// 浏览器f12下黏贴进去
 function my_post_achievement(str_ach, now_galgame, now_scene){
     var ajax_answer = null;
    var ajax_async = false;
@@ -108,9 +102,7 @@ for (let i = 1; i <=15; i++) {
    galgame(i);
 }
 
-// // 后16-31关 (记得等3小时后再输入，脚本刷太快可能导致封号)
+// // 后16-31关
 // for (let i = 16; i <=31; i++) {
 //     galgame(i);
 //  }
-
-```
