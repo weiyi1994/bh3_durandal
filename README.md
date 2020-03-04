@@ -1,7 +1,7 @@
 # bh3_durandal
 崩坏3幽兰戴尔视觉小说自动完成脚本
 
-<img src="./tmp.png">
+![image](./tmp.png)
 
 ```javascript
 
